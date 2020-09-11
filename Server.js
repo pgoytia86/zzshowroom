@@ -7,7 +7,7 @@ const shortid = require("shortid");
 const app = express();
 
 
-//enviar datos a POST REQUEST
+//enviar datos a POST REQUEST 
 app.use(bodyParser.json());
 
 //renderizar proyecto build en index.html
