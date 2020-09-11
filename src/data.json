@@ -1,0 +1,62 @@
+{
+    "products":[
+        {            
+        "_id":"art1",
+        "title":"LES PARFUMS Dior",
+        "image":"/images/1.png",
+        "descripcion":"Set de Viaje Dior",
+        "precio":699,
+        "availableSizes": ["X", "M", "XL", "XXL"]
+        
+        },
+
+        {            
+            "_id":"art2",
+            "title":"THREE SET YSL",
+            "image":"/images/2.png",
+            "descripcion":"Set de viaje Eau de parfum",
+            "precio":799.99,
+            "availableSizes": ["X","M", "L"]
+
+            
+            },
+            {            
+                "_id":"art3",
+                "title":"Set de Viaje Chanel",
+                "image":"/images/3.png",
+                "descripcion":"Set de viaje ",
+                "precio":799.99,
+                "availableSizes": [ "XXL"]
+              
+                },
+                {            
+                    "_id":"art4",
+                    "title":"Chanel Colection CC",
+                    "image":"/images/4.png",
+                    "descripcion":"Set de viaje Eau de parfum",
+                    "precio":699.99,
+                    "availableSizes": [ "L", "XL"]
+                   
+                    },
+                    {            
+                        "_id":"art5",
+                        "title":"Chance Chanel",
+                        "image":"/images/5.png",
+                        "descripcion":"Set de viaje",
+                        "precio":699.99,
+                        "availableSizes": ["X", "L", "XL"]
+                       
+                        },
+                        {            
+                            "_id":"art6",
+                            "title":"Eau de Parfum Chanel",
+                            "image":"/images/6.png",
+                            "descripcion":"Set de Viaje",
+                            "precio":599.99,
+                            "availableSizes": ["XS", "L", "XL", "XXL"]
+                           
+                         }
+                        
+
+    ]
+}
