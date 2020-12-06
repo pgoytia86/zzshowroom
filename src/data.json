@@ -2,19 +2,19 @@
     "products":[
         {            
         "_id":"art1",
-        "title":"LES PARFUMS Dior",
+        "title":"Estola Corbatín",
         "image":"/images/1.png",
-        "descripcion":"Set de Viaje Dior",
-        "precio":699,
+        "descripcion":"Burberry corazones stole",
+        "precio":899,
         "availableSizes": ["X", "M", "XL", "XXL"]
         
         },
 
         {            
             "_id":"art2",
-            "title":"THREE SET YSL",
+            "title":"Sueter Balmain",
             "image":"/images/2.png",
-            "descripcion":"Set de viaje Eau de parfum",
+            "descripcion":"black and white logo classic",
             "precio":799.99,
             "availableSizes": ["X","M", "L"]
 
@@ -22,37 +22,37 @@
             },
             {            
                 "_id":"art3",
-                "title":"Set de Viaje Chanel",
+                "title":"tshirt multilove osos",
                 "image":"/images/3.png",
-                "descripcion":"Set de viaje ",
-                "precio":799.99,
+                "descripcion":"Moschino ",
+                "precio":1499.99,
                 "availableSizes": [ "XXL"]
               
                 },
                 {            
                     "_id":"art4",
-                    "title":"Chanel Colection CC",
+                    "title":"Sueter Inspiración",
                     "image":"/images/4.png",
-                    "descripcion":"Set de viaje Eau de parfum",
-                    "precio":699.99,
+                    "descripcion":"Donald Gucci Griego",
+                    "precio":1399.99,
                     "availableSizes": [ "L", "XL"]
                    
                     },
                     {            
                         "_id":"art5",
-                        "title":"Chance Chanel",
+                        "title":"Diadema Chanel",
                         "image":"/images/5.png",
-                        "descripcion":"Set de viaje",
+                        "descripcion":"PREMIUM",
                         "precio":699.99,
                         "availableSizes": ["X", "L", "XL"]
                        
                         },
                         {            
                             "_id":"art6",
-                            "title":"Eau de Parfum Chanel",
+                            "title":"Aretes tipo arracada",
                             "image":"/images/6.png",
-                            "descripcion":"Set de Viaje",
-                            "precio":599.99,
+                            "descripcion":"fendi",
+                            "precio":999.99,
                             "availableSizes": ["XS", "L", "XL", "XXL"]
                            
                          }
