@@ -56,6 +56,15 @@
                             "availableSizes": ["XS", "L", "XL", "XXL"]
                            
                          }
+          {            
+                            "_id":"art7",
+                            "title":"Nintendo 620 en 1 ",
+                            "image":"/images/nintendo2.png",
+                            "descripcion":"620 en 1 , envío gratis en todo Xalapa",
+                            "precio":599.99,
+                            "availableSizes": ["XS", "L", "XL", "XXL"]
+                           
+                         }
                         
 
     ]
