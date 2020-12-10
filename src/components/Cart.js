@@ -85,6 +85,8 @@ class Cart extends Component {
                         </div>
                       ))}
                     </div>
+                    <div>Mail de Contacto: aranzacardnas@gmail.com </div>
+
                   </li>
                 </ul>
               </div>
