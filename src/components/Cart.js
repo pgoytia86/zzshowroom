@@ -6,7 +6,6 @@ import Modal from "react-modal";
 import Zoom from "react-reveal/Zoom";
 import { removeFromCart } from "../actions/cartActions";
 import { createOrder, clearOrder } from "../actions/orderActions";
-import contacto from './contacto.jpeg'
 
 
 class Cart extends Component {
@@ -88,8 +87,8 @@ class Cart extends Component {
 
                       ))}
                            <p>Escanea Código para Contacto de Whatsapp:</p>
-                    <img src={contacto} />
-                    </div>
+            <img alt="contacto" src={require('./images/contacto.jpeg')} />
+                      </div>
                 
 
                   </li>
