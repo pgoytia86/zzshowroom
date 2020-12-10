@@ -87,8 +87,7 @@ class Cart extends Component {
 
                       ))}
                            <p>Escanea Código para Contacto de Whatsapp:</p>
-            <img alt="contacto" src={require('./images/contacto.jpeg')} />
-                      </div>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2Wb6Mm/contacto.jpg" alt="contacto" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>descargar gif mr bean</a><br />                      </div>
                 
 
                   </li>
