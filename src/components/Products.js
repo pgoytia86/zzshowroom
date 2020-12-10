@@ -89,13 +89,13 @@ import {addToCart} from  "../actions/cartActions";
                   </p>
                   <p>{product.descripcion}</p>
                   <p>
-                    Tallas Disponibles:{" "}
-                    {product.availableSizes.map((x) => (
+                    Sujetos a disponibilidad*{" "}
+                 {/*     {product.availableSizes.map((x) => (
                       <span>
                         {" "}
                         <button className="button">{x}</button>
                       </span>
-                    ))}
+                    ))} */}
                   </p>
                   <div className="product-price">
                     <div>Precio:{" "}{formatCurrency(product.precio)}</div>
