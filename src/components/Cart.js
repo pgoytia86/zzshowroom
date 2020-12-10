@@ -6,7 +6,7 @@ import Modal from "react-modal";
 import Zoom from "react-reveal/Zoom";
 import { removeFromCart } from "../actions/cartActions";
 import { createOrder, clearOrder } from "../actions/orderActions";
-import contacto from '../images/contacto.jpeg'
+import contacto from './contacto.jpeg'
 
 
 class Cart extends Component {
