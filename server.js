@@ -33,6 +33,8 @@ new mongoose.Schema({
     _id: {type:String, default: shortid.generate},
     title: String,
     image: String,
+    image2:String,
+    image3:String,
     descripcion:String,
     precio: Number,
     availableSizes:[String],
