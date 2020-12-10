@@ -21,9 +21,9 @@ import formatCurrency from '../util';
               <th>ID</th>
               <th>FECHA</th>
               <th>TOTAL</th>
-              <th>NOMBRE</th>
+     { /*   <th>NOMBRE</th>
               <th>EMAIL</th>
-              <th>DIRECCION</th>
+              <th>DIRECCION</th> */}
               <th>ARTICULOS</th>
             </tr>
           </thead>
@@ -33,9 +33,9 @@ import formatCurrency from '../util';
                 <td>{order._id}</td>
                 <td>{order.createdAt}</td>
                 <td> {formatCurrency(order.total)}</td>
-                <td>{order.name}</td>
+                 {/* <td>{order.name}</td>
                 <td>{order.email}</td>
-                <td>{order.address}</td>
+                <td>{order.address}</td> */}
                 <td>
                   {order.cartItems.map((item) => (
                     <div>
