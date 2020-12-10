@@ -28,7 +28,7 @@ class Filter extends Component {
           </select>
         </div>
         <div className="filter-size">
-          Filter{" "}
+          Filtrar{" "}
           <select
             value={this.props.size}
             onChange={(e) =>
