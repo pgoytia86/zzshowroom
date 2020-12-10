@@ -88,7 +88,8 @@ class Cart extends Component {
                       ))}
                            <p>Escanea Código para Contacto de Whatsapp:</p>
               <img src="https://i.ibb.co/k2Wb6Mm/contacto.jpg" alt="contacto" />
-                
+                                    </div>
+
 
                   </li>
 
