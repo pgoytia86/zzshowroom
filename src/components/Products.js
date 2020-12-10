@@ -81,7 +81,7 @@ import {addToCart} from  "../actions/cartActions";
               </button>
               <div className="product-details">
                 <img src={product.image} alt={product.title}></img>
-                                 <img src={product.image2}></img>
+                                 <img src={product.image2} alt={product.title}></img>
 
                 <div className="product-details-description">
                   <p>
