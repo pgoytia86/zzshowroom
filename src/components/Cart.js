@@ -78,7 +78,7 @@ class Cart extends Component {
                     <div>{formatCurrency(order.total)}</div>
                   </li>
                   <li>
-                    <div>Artículos:</div>
+          {/*    <div>Artículos:</div> */}
                     <div>
                       {order.cartItems.map((x) => (
                         <div>
