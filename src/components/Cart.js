@@ -85,10 +85,13 @@ class Cart extends Component {
                         </div>
                       ))}
                     </div>
-                    <div>Mail de Contacto: aranzacardnas@gmail.com </div>
+                   
 
                   </li>
+
                 </ul>
+  <p>Escanea Código para Contacto de Whatsapp:</p>
+                    <img src="/contacto.jpeg" alt="image" />
               </div>
             </Zoom>
           </Modal>
