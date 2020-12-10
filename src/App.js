@@ -17,7 +17,7 @@ class App extends React.Component {
        
       <div className="grid-container">
         <header>
-          <Link to="/">ZAZUSHOWROOM | Ropa y Accesorios</Link>
+          <Link to="/">ZAZUSHOWROOM | Shopping Cart</Link>
           <Link to="/admin" > Admin  </Link>
         
         </header>
