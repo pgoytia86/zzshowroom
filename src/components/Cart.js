@@ -85,15 +85,17 @@ class Cart extends Component {
                         <div>
                           {x.count} {" x "} {x.title}
                         </div>
+
                       ))}
+                           <p>Escanea Código para Contacto de Whatsapp:</p>
+                    <img src={contacto} />
                     </div>
-                   
+                
 
                   </li>
 
                 </ul>
-  <p>Escanea Código para Contacto de Whatsapp:</p>
-                    <img src={contacto} />
+
               </div>
             </Zoom>
           </Modal>
