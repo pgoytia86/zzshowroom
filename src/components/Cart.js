@@ -93,7 +93,7 @@ class Cart extends Component {
 
                 </ul>
   <p>Escanea Código para Contacto de Whatsapp:</p>
-                    <img src={imagePath} />
+                    <img src={contacto} />
               </div>
             </Zoom>
           </Modal>
